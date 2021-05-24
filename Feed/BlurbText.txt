@@ -1,1 +1,4 @@
-carlton but no arson ???????? :O
+Welcome to Update 1!
+This update fixes injection, which means that Jiayi is no longer useless!
+You can select a DLL and launch Minecraft, and it will *finally* inject into your game.
+Enjoy!
