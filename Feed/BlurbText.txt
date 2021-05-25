@@ -1,4 +1,3 @@
-Welcome to Update 1!
-This update fixes injection, which means that Jiayi is no longer useless!
-You can select a DLL and launch Minecraft, and it will *finally* inject into your game.
+This is just a small hotfix before Update 2 comes out next week.
+There should be no issues while launching now, and Discord RPC has been tweaked along with the status text.
 Enjoy!
