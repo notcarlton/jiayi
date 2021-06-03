@@ -1,3 +1,4 @@
-This is just a small hotfix before Update 2 comes out next week.
-There should be no issues while launching now, and Discord RPC has been tweaked along with the status text.
+Update 2 is on the way!
+This small update changes a lot of UI elements, like this text's container.
+Fonts are now installed automatically, so if they're not already applied then you need to restart Jiayi.
 Enjoy!

@@ -1,1 +1,1 @@
-Injection has been fixed, along with a few minor tweaks. Remember to join our discord: https://discord.gg/zwFJGr45JZ
+Update 1.1 fixes launching issues and changes Discord RPC + status text. Join the server for a full list of changes: https://discord.gg/zwFJGr45JZ
