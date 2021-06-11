@@ -1,1 +1,1 @@
-Update 1.1 fixes launching issues and changes Discord RPC + status text. Join the server for a full list of changes: https://discord.gg/zwFJGr45JZ
+Lots of UI elements have been refreshed and fonts now install automatically. Join the discord server for a full list of changes: https://discord.gg/zwFJGr45JZ
