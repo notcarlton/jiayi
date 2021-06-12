@@ -1,4 +1,4 @@
-Update 2 is on the way!
-This small update changes a lot of UI elements, like this text's container.
-Fonts are now installed automatically, so if they're not already applied then you need to restart Jiayi.
+Welcome to Update 2.0!
+We've added 5 new themes, as well as a new "Restart Jiayi" button in the settings tab.
+There are also a few consistency issues that should be fixed.
 Enjoy!
