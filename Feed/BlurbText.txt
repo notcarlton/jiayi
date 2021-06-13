@@ -1,4 +1,4 @@
-Welcome to Update 2.0!
-We've added 5 new themes, as well as a new "Restart Jiayi" button in the settings tab.
-There are also a few consistency issues that should be fixed.
+Jiayi now supports RPC per server with Onix Client.
+If you're having any issues with this, make sure you have the latest Onix DLL.
+Relaunching Minecraft could fix any problems as well.
 Enjoy!
