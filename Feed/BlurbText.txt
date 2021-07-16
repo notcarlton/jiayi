@@ -1,4 +1,3 @@
-Jiayi now supports RPC per server with Onix Client.
-If you're having any issues with this, make sure you have the latest Onix DLL.
-Relaunching Minecraft could fix any problems as well.
-Enjoy!
+Jiayi is being remade to be better than ever!
+The remake will have a new look, better perfomance, and new features.
+You can check when it's released on our Discord server: https://discord.gg/5skjkBMUep
