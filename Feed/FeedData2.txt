@@ -1,1 +1,1 @@
-Update 2 brings 5 new themes submitted by the community. You can submit your own themes in our Discord: https://discord.gg/zwFJGr45JZ
+Jiayi's Discord RPC now displays what server you're on when using Onix Client! You can turn it on by switching your RPC mode to "Server" in the settings tab.

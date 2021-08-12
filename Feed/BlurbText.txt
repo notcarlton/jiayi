@@ -1,3 +1,5 @@
-Jiayi is being remade to be better than ever!
-The remake will have a new look, better perfomance, and new features.
-You can check when it's released on our Discord server: https://discord.gg/5skjkBMUep
+Welcome to Update 3.1!
+
+Texture Pack Profiles are the main focus of this update. They allow you to save the texture packs you have applied so you can use them later.
+We've also added new transitions around the launcher.
+Enjoy!

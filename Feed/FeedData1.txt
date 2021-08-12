@@ -1,1 +1,1 @@
-Jiayi's Discord RPC now displays what server you're on when using Onix Client! You can turn it on by switching your RPC mode to "Server" in the settings tab.
+Update 3.1 brings Texture Pack Profiles, along with new transitions and overall improvements. You can read the full patch notes on our Discord server at https://discord.gg/zwFJGr45JZ
