@@ -1,4 +1,4 @@
-[    
+export default [    
     {
         "title": {
             "text": "Jiayi 16x",
