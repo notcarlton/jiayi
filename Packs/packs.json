@@ -14,5 +14,21 @@
             "url": "https://github.com/notcarlton/jiayi/raw/master/Packs/Jiayi-16x.png"
         },
         "description": "The original Jiayi themed texture pack, created by Plu4qlEve, kehlvin, and xqwo."
+    },
+    {
+        "title": {
+            "text": "Valiente [16x]",
+            "url": "https://www.mediafire.com/file/gh7q7xrw1icv58n/Valiente16x.mcpack/file"
+        },
+        "credits": [
+            {
+                "name": "NightmarePacks",
+                "url": "https://www.youtube.com/watch?v=4LNdarAoSHQ"
+            }
+        ],
+        "image": {
+            "url": "https://images-ext-1.discordapp.net/external/OqtS97bB_yC_ED11ofD2SYPqleja4GOIxzALizjMxP8/https/i.ytimg.com/vi/4LNdarAoSHQ/maxresdefault.jpg?width=360&height=202"
+        },
+        "description": "A purple-themed Minecraft texture pack to celebrate NightmarePacks hitting 150 subscribers."
     }
 ]
