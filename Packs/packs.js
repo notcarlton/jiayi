@@ -59,7 +59,7 @@ const items = [
             }
         ],
         "image": {
-            "url": "https://images-ext-1.discordapp.net/external/HqCqDR5PXNrYoqR2jy6Fi6-rWz6WSQ4zaKv9dt6dh0w/https/i.ytimg.com/vi/3wLQiGyW7Bo/maxresdefault.jpg?width=200&height=165"
+            "url": "https://images-ext-2.discordapp.net/external/JEwAG_JnCw-ov8lpmA-mWK-oSvy7cWWDonoruaLSeuE/https/i.ytimg.com/vi/-tbH_PRDAHk/maxresdefault.jpg?width=200&height=165"
         },
         "description": "A japanese/samurai themed Minecraft texture pack dedicated to the NetherGames guild, Sanctuary."
     }
